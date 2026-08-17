@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=HackerRepo.org+;Cybersecurity+Resources)](https://git.io/typing-svg)
 
-This repository is a comprehensive collection of cybersecurity references, scripts, tools, code, labs, and training resources. It is carefully curated and maintained by [Omar Santos](https://omarsantos.io/).
+This repository is a comprehensive collection of cybersecurity references, scripts, tools, code, labs, and training resources. It is carefully curated and maintained by [Christopher Cruz - (C🔆RE)](https://t.me/DreamOfHacker).
 
 ## Overview
 
-The repository serves as supplemental material for books, video courses, and live training created by Omar Santos. It includes resources for offensive security, defensive security, cloud and container security, application security, AI security, certifications, labs, and reference material.
+The repository serves as supplemental material for books, video courses, and live training created by Christopher Cruz - (C🔆RE). It includes resources for offensive security, defensive security, cloud and container security, application security, AI security, certifications, labs, and reference material.
 
 ## Directory Overview
 
@@ -28,4 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact [Omar Santos](https://www.linkedin.com/in/santosomar/).
+For any inquiries or feedback, please contact [Christopher Cruz - (C🔆RE)](https://t.me/DreamOfHacker).
+.
